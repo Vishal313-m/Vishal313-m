@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://Vishal313-m.github.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://Vishal313-m.github.io)
 
 <h1 align="center">Hi 👋, I'm Vishal Mahto</h1>
 <h3 align="center">A passionate Full Stack Developer and Android Developer from India</h3>
