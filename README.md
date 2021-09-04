@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEpBanA2S4/share/preview?token=Ig_mDfOrM_SjTLOWzyV2uQ&role=EDITOR&utm_content=DAEpBanA2S4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://Vishal313-m.github.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://Vishal313-m.github.io)
 
 <h1 align="center">Hi 👋, I'm Vishal Mahto</h1>
 <h3 align="center">A passionate Full Stack Developer and Android Developer from India</h3>
