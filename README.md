@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal313-m&label=Profile%20views&color=0e75b6&style=flat" alt="vishal313-m" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1W18WGHsjCE0xejA4GfaNDDBO1Jwu0jx1/view?usp=sharing">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal313-m" alt="vishal313-m" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw0t1xINexnNAx_BYzw7_OBl&ust=1630815394943000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLijzvW65PICFQAAAAAdAAAAABAD">
+
 <p align="left"> <a href="https://twitter.com/vishal_28m" target="blank"><img src="https://img.shields.io/twitter/follow/vishal_28m?logo=twitter&style=for-the-badge" alt="vishal_28m" /></a> </p>
 
 - 📫 How to reach me **vishalmahto541@gmail.com**
