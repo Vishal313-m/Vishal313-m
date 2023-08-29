@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://Vishal313-m.github.io)
 
 <h1 align="center">Hi 👋, I'm Vishal Mahto</h1>
-<h3 align="center">A passionate Full Stack Developer and Android Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal313-m&label=Profile%20views&color=0e75b6&style=flat" alt="vishal313-m" /> </p>
 
